@@ -3,6 +3,6 @@
   <title>Index</title>
  </head>
  <body>
- <?php echo '<p>Hello world from PHP! Declarative pipeline!! Created via Jenkins</p>'; ?> 
+ <?php echo '<p>Hello world from PHP! Declarative pipeline!! Created via Jenkins CICD</p>'; ?> 
  </body>
 </html>
